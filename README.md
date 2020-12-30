@@ -18,6 +18,7 @@
 -   carousel_slider
 -   modal_bottom_sheet
 -   cached_network_image
+-   Filter Data by Name, total Case,total Deaths,total Recovered....
 -   RadpidAPI Covid Tracking
 -   RSS VnExpress 
 
