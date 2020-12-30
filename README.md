@@ -1,6 +1,6 @@
 # Covid19 App - Flutter - getx - Rss
 
-Covid19 News App create by Flutter use getX Pattern
+* Covid19 News App create by Flutter use GetX (GetX is an extra-light and powerful solution for Flutter. It combines high performance state management, intelligent dependency injection, and route management in a quick and practical way)
 
 * Covid-19 News App help people Tracking COVID-19 Cases in Vietnam and the world, user can read new News about Covid in VnExpress 
 * I have developed this app all by myself and I would be happy to share the APK of the app for testing purposes
