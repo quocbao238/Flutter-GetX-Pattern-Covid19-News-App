@@ -7,7 +7,7 @@ Covid19 News App create by Flutter use getX Pattern
 * Hope you like it 👍. Give me a star if you like it ⭐
 
 ### Dowload
-[![Try in PWD](https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png)](https://github.com/quocbao238/Smart-Connect/raw/master/InstallAPK/Smart%20Connect.apk)
+[![Try in PWD](https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png)](https://github.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/raw/main/apk/app-release.apk)
 
 ### Prequisites
 -   shimmer
@@ -32,8 +32,10 @@ Covid19 News App create by Flutter use getX Pattern
 
 ### Screenshot
  
-<img src="https://raw.githubusercontent.com/quocbao238/nCoV_News_Flutter/master/screenshot/1.png" width="400"/> <img src="https://github.com/quocbao238/nCoV_News_Flutter/blob/master/screenshot/2.png" width="400"/> 
+<img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/1.jpg" width="400"/> <img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/2.jpg" width="400"/> 
 
-<img src="https://raw.githubusercontent.com/quocbao238/nCoV_News_Flutter/master/screenshot/3.png" width="400"/> <img src="https://raw.githubusercontent.com/quocbao238/nCoV_News_Flutter/master/screenshot/4.png" width="400"/>
+<img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/3.jpg" width="400"/> <img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/4.jpg" width="400"/> 
 
-<img src="https://raw.githubusercontent.com/quocbao238/nCoV_News_Flutter/master/screenshot/5.png" width="400"/> 
+<img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/5.jpg" width="400"/> <img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/6.jpg" width="400"/> 
+
+<img src="https://raw.githubusercontent.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/main/screenshot/7.jpg" width="400"/> 
