@@ -33,7 +33,7 @@ class HomeController extends GetxController {
   @override
   void onClose() {
     lstCountryController.dispose();
-    super.onInit();
+    super.onClose();
   }
 
   Future<void> fetchData() async {
