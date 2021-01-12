@@ -9,7 +9,7 @@
 ### Dowload
 [![Try in PWD](https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png)](https://github.com/quocbao238/Flutter-GetX-Pattern-Covid19-News-App/raw/main/apk/app-release.apk)
 
-### Prequisites
+### Prerequisites
 -   shimmer
 -   getx
 -   google_fonts
