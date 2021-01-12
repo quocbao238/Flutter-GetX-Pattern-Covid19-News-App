@@ -1,4 +1,4 @@
-# Covid19 App - Flutter - getx - Rss
+# Covid19 App - Flutter - GetX - Rss - Covid API
 
 * Covid19 News App create by Flutter use GetX
 
